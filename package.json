@@ -1,10 +1,9 @@
 {
-    "name": "jest-test-starter-project",
+    "name": "jest-starter-project",
     "version": "0.0.1",
     "author": "Jed Duffey",
     "license": "MIT",
     "description": "A starter kit for setting up a JavaScript project with Jest tests",
-    "main": "index.js",
     "scripts": {
         "test": "jest --coverage",
         "start": "live-server"
