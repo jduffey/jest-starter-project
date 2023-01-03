@@ -1,5 +1,5 @@
 export const fizzbuzz = (n) => {
-    if (typeof n !== 'number' || n % 1 !== 0 || n < 1) {
+    if (!(Number.isInteger(n) && n > 0)) {
         throw new Error("Input must be a positive integer.");
     }
 
