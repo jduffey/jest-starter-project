@@ -1,0 +1,17 @@
+{
+    "name": "jest-test-starter-project",
+    "version": "0.0.1",
+    "author": "Jed Duffey",
+    "license": "MIT",
+    "description": "A starter kit for setting up a JavaScript project with Jest tests",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.20.5",
+        "@babel/preset-env": "^7.20.2",
+        "babel-jest": "^29.3.1",
+        "jest": "^29.3.1"
+    }
+}
