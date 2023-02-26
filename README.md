@@ -1,6 +1,6 @@
+[![Node.js CI](https://github.com/jduffey/jest-starter-project/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/jduffey/jest-starter-project/actions/workflows/node.js.yml)
+
 ## A simple JavaScript starter project using Jest for module testing.
-
-
 
 After cloning the repository, run the following commands in order:
 
