@@ -1,0 +1,7 @@
+tasks:
+  - key: demo-breakpoint
+    run: |
+      echo "hello world" | tee greeting.txt
+      mint-breakpoint
+    env:
+      SOME_ENV: the value
